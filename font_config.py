@@ -4,9 +4,9 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent
 OUTPUT_DIR = PROJECT_ROOT / "build"
-FAMILY = "Caya Code"
-POSTSCRIPT_FAMILY = "CayaCode"
-VERSION = "1.002"
+FAMILY = "Cascadia YaHei"
+POSTSCRIPT_FAMILY = "CascadiaYaHei"
+VERSION = "1.00"
 CASCADIA_FONT_NAME = "Cascadia Code"
 CASCADIA_FONT_FILE = "CascadiaCode.ttf"
 

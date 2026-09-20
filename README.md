@@ -1,12 +1,12 @@
-# Caya Code
+# Cascadia YaHei
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/caya-code-preview-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/caya-code-preview-light.png">
-  <img alt="Caya Code 字体样张" src="assets/caya-code-preview-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cascadia-yahei-preview-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/cascadia-yahei-preview-light.png">
+  <img alt="Cascadia YaHei 字体样张" src="assets/cascadia-yahei-preview-light.png">
 </picture>
 
-Caya Code 是一款等宽字体，专注于优化中文用户的编程体验。拉丁字符、编程符号及连字来自 Cascadia Code，中文、日文假名及其他缺失字符由微软雅黑（Microsoft YaHei）补充；中文字符占两个英文字符宽度。本地构建会生成两种源字体共同支持的字重，例如 Light、Regular 和 Bold，具备更多字重的版本还会生成 SemiLight 和 SemiBold。
+Cascadia YaHei 是一款等宽字体，专注于优化中文用户的编程体验。拉丁字符、编程符号及连字来自 Cascadia Code，中文、日文假名及其他缺失字符由微软雅黑（Microsoft YaHei）补充；中文字符占两个英文字符宽度。本地构建会生成两种源字体共同支持的字重，例如 Light、Regular 和 Bold，具备更多字重的版本还会生成 SemiLight 和 SemiBold。
 
 ## 授权说明
 
@@ -16,7 +16,7 @@ Caya Code 是一款等宽字体，专注于优化中文用户的编程体验。�
 
 ## 下载
 
-从 [Releases](https://github.com/JackerGamer/Caya-Code/releases/latest) 下载最新的 TTF 文件。
+从 [Releases](https://github.com/JackerGamer/Cascadia-YaHei/releases/latest) 下载最新的 TTF 文件。
 
 ## 构建
 
@@ -41,7 +41,7 @@ python .\build_font.py
 
 ```json
 {
-  "editor.fontFamily": "'Caya Code'",
+  "editor.fontFamily": "'Cascadia YaHei'",
   "editor.fontLigatures": true
 }
 ```

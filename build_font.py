@@ -241,7 +241,7 @@ def build_style(
     style: Style,
 ) -> None:
     with tempfile.TemporaryDirectory(
-        prefix=".caya-code-",
+        prefix=".cascadia-yahei-",
         dir=output_path.parent,
     ) as temp_dir:
         temp = Path(temp_dir)
@@ -350,7 +350,7 @@ def main() -> None:
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(
-        prefix=".caya-code-build-",
+        prefix=".cascadia-yahei-build-",
         dir=OUTPUT_DIR.parent,
     ) as staging:
         staging_dir = Path(staging)

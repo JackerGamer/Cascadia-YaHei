@@ -1,4 +1,4 @@
-Caya Code Font Test
+Cascadia YaHei Font Test
 ===================
 
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -36,7 +36,7 @@ Columns
 | Name       | Value      | Status     |
 | Cascadia   | Latin      | Ready      |
 | 微软雅黑   | 中文字形   | 正常       |
-| Caya Code  | 中英混排   | 对齐       |
+| Cascadia YaHei  | 中英混排   | 对齐       |
 
 Similar characters
 ------------------
